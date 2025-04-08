@@ -1,0 +1,16 @@
+When you the cusotmer wishes to run the script they must frist run the server.py then the client.py so the cleint.py can connect to the server and get any data
+such as the csv database from the serevr to the client side to change any data when customer purchases 1 or many items from the apple program.
+
+When the gui window pops up the custoemr will see 4 iphone options the 13,12,11 and 10 whne they wish to purchase one of them they will have to enter the name of the
+iphone exactly seen on the gui underneath were it say "Enter the item you wish to purchase!" then underneath that is another smaller box where the customer will
+enter how many of that Apple product that they wish to purchase as long as it is in stock.
+
+After that the customer will press the "Add product to kart" button and then the product will appear in the basket where it will display how much the Apple product
+is and what Apple product it is.
+
+Now the customer has a choice to either not purchase it and click the delete basket where the item in the basket will be deleted and the user will leave the gui apple 
+store or click the continue to pay button where the customer has to pay with Credit/Debit card as the apple store only take card payment for any
+purchases that are above £200.00. Once the customer decides to purchase the Item from the basket the total cost of the item will be seen in the total cost box as the
+final payment for the Item. Once the customer has paied for the Item the Apple Store GUI will close.
+
+Also the customer is able to add more Item in the basket after adding another. Once these purchase are made the user will be able to click ont he 
